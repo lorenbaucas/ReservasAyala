@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ayala Bookings</string>
+    <string name="inicio_login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="save_user">Save user</string>
+    <string name="sign_in">Login to your account</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="registrar">Sign up</string>
+    <string name="email">Email</string>
+    <string name="home">Home</string>
+    <string name="restablecer">Reset password</string>
+    <string name="volver">Back</string>
+    <string name="forgot_Pass">I have forgot my password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="required">Required</string>
+    <string name="bookings">Bookings</string>
+    <string name="profile">Profile</string>
+    <string name="different_password">Different passwords</string>
+    <string name="informacion_recuperacion_email">Please enter the email address of the account whose password you wish to reset:</string>
+    <string name="go_to_bookings">Go to my appointmets</string>
+    <string name="hora_entrada">Time of entry</string>
+    <string name="hora_salida">Departure time</string>
+    <string name="morning">Morning</string>
+    <string name="evening">Evening</string>
+    <string name="day">Day</string>
+    <string name="library">Library</string>
+    <string name="logout_confirmation">Are you sure to logout?</string>
+    <string name="updated_profile">Updated profile</string>
+    <string name="error">There was a problem, try again later</string>
+    <string name="ok_credentials">Correct credentials</string>
+    <string name="bad_credentials">Bad credentials</string>
+    <string name="seleccion_hora">Choose an hour</string>
+    <string name="delete_account">Delete account</string>
+    <string name="delete_account_confirmation">"I accept the consequences "</string>
+    <string name="deleted_account">Your account has been deleted</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="help">Help and support</string>
+    <string name="description">Description</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="help_text"><b>How to delete the account?</b>
+                             \nIf you are logged in with Google, we recommend that you log out and log in again with Google and go directly to deleting the account, this should help in case problems arise\n\n
+                             <b>How to change the profile photo?</b>
+                             \nIf you want to change your profile photo you must first enter settings and then click on your photo, when selecting the new one click on the check to confirm the changes\n\n
+                             <b>I am logged in with Google but I cannot access with email and password</b>
+                             \nIf you tried this it is because Google saves you different credentials, it uses your email, but it does not generate a password, but a unique token, so if you created the account with email and password, log in with email and password, if you logged in with Google, use Sign in with Google, credentials between both are not shared for greater security and protection of data and passwords\n\n
+    </string>
+    <string name="hall">Assembly hall</string>
+    <string name="book">Book</string>
+    <string name="delete_history">Delete history</string>
+    <string name="notification_resetPassword">Recovery mail sent</string>
+    <string name="accept">Accept</string>
+    <string name="outstanding">Outstanding</string>
+    <string name="history">History</string>
+    <string name="pp_updated">Profile picture updated</string>
+    <string name="user">User</string>
+    <string name="created">Successfully created</string>
+    <string name="login">Login successful</string>
+    <string name="reserv_error">There was an error with your appointment booking</string>
+    <string name="deleted_history">History deleted</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_booking">Udate booking</string>
+    <string name="delete_booking">Delete booking</string>
+    <string name="logout">Logout</string>
+    <string name="updated_appointment">Updated appointment</string>
+</resources>

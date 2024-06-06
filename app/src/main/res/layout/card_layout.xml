@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="12dp"
+    card_view:cardCornerRadius="20dp"
+    card_view:cardBackgroundColor="@color/white"
+    card_view:cardElevation="10dp"
+    card_view:contentPadding="2dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/txtAppointStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtAppointSite"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/rounded_corner"
+            android:padding="5dp"
+            android:text="Status"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtAppointSite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtAsunto"
+            android:layout_marginStart="5dp"
+            android:gravity="bottom"
+            android:text="site"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/txtAppointDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/txtAppointSite"
+            android:layout_alignParentEnd="true"
+            android:gravity="center"
+            android:text="Date"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtAppointHour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtAppointDate"
+            android:layout_alignBottom="@id/txtAppointStatus"
+            android:layout_alignParentEnd="true"
+            android:gravity="center"
+            android:text="Hour"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/txtAsunto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Asunto"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="5dp"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reservas Ayala</string>
+    <string name="registrar">Registrarse</string>
+    <string name="inicio_login">Iniciar sesión</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="save_user">Guardar usuario</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="sign_in_google">Iniciar sesión con Google</string>
+    <string name="email">Correo electrónico</string>
+    <string name="restablecer">Restablecer contraseña</string>
+    <string name="volver">Volver</string>
+    <string name="forgot_Pass">He olvidado mi contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="different_password">Contraseñas distintas</string>
+    <string name="required">Requerido</string>
+    <string name="home">Inicio</string>
+    <string name="bookings">Reservas</string>
+    <string name="profile">Perfil</string>
+    <string name="informacion_recuperacion_email">Indique la dirección de correo electrónico de la cuenta cuya contraseña desea restablecer:</string>
+    <string name="go_to_bookings">Ir a mis reservas</string>
+    <string name="hora_entrada">Hora entrada</string>
+    <string name="hora_salida">Hora salida</string>
+    <string name="morning">Mañana</string>
+    <string name="evening">Tarde</string>
+    <string name="day">Día</string>
+    <string name="library">Biblioteca</string>
+    <string name="logout_confirmation">¿Estás seguro de cerrar la sesión?</string>
+    <string name="updated_profile">Perfil actualizado</string>
+    <string name="error">Hubo un problema, inténtelo más tarde</string>
+    <string name="ok_credentials">Credenciales correctas</string>
+    <string name="bad_credentials">Credenciales incorrectas</string>
+    <string name="seleccion_hora">Selecciona una hora</string>
+    <string name="delete_account">Borrar cuenta</string>
+    <string name="delete_account_confirmation">Acepto las consecuencias</string>
+    <string name="deleted_account">Tu cuenta ha sido eliminada</string>
+    <string name="are_you_sure">¿Estás seguro?</string>
+    <string name="help">Ayuda y soporte</string>
+    <string name="description">Descripción</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="help_text"><b>¿Cómo borrar la cuenta?</b>
+                             \nSi tienes la sesión iniciada con Google, te recomendamos cerrar la sesión y volver a iniciar sesión con Google e ir directamente a borrar la cuenta, esto debería ayudar por si aparecen problemas\n\n
+                             <b>¿Cómo cambiar la foto de perfil?</b>
+                             \nSi desea cambiar su foto de perfil debes primero entrar en ajustes y luego pulsar sobre tu foto, al seleccionar la nueva pulsa en el check para confirmar los cambios\n\n
+                             <b>Tengo la sesión iniciada con Google pero no puedo acceder con correo y contraseña</b>
+                             \nSi intentaste esto es porque Google te guarda unas credenciales distintas, usa tu correo electrónico, pero no te genera una contraseña, sino un token único, así que si creaste la cuenta con correo y contraseña inicia sesión con correo y contraseña, si iniciaste sesión con Google, usa el Iniciar sesión con Google, las credenciales entre ambas no se comparten para una mayor seguridad y protección de datos y contraseñas\n\n
+    </string>
+    <string name="hall">Salón de actos</string>
+    <string name="book">Reservar</string>
+    <string name="delete_history">Borrar historial</string>
+    <string name="notification_resetPassword">Correo de recuperación enviado</string>
+    <string name="accept">Aceptar</string>
+    <string name="outstanding">Pendiente</string>
+    <string name="history">Historial</string>
+    <string name="pp_updated">Imagen de perfil actualizada</string>
+    <string name="user">Usuario</string>
+    <string name="created">creado correctamente</string>
+    <string name="login">Registro correcto</string>
+    <string name="reserv_error">Hubo un error con la reserva de su cita</string>
+    <string name="deleted_history">Historial eliminado</string>
+    <string name="cancel">Cancelar</string>
+    <string name="update_booking">Actualizar cita</string>
+    <string name="delete_booking">Eliminar cita</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="updated_appointment">Cita actualizada</string>
+</resources>
